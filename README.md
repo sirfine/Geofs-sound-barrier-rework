@@ -1,1 +1,1 @@
-# Geofs-sound-barrier-rework
+# Geofs-sound-barrier-rework. when you reach mach 1 (although may only trigger a bit past mach 1) rings emit from the plane and a loud sound is heard. lasta a few seconds. any questions, problems, or suggestions, post under issues. 
